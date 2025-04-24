@@ -23,7 +23,7 @@ describe('Classe Produto', () => {
         });
     }
 
-    );
+    )
 
     describe('método definirPrecoPromocional', () => {
         test('deve definir o preço promocional se for menor que o preço original e não negativo', () => {
